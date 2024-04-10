@@ -1,0 +1,9 @@
+conda install pytorch
+
+# install node js from node website
+# install npm form the npm website
+
+
+npm init -y     # here -y flag gives yes to all prompts
+
+npm install express
